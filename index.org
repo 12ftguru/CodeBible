@@ -4,3 +4,14 @@
 Welcome to the Twelve Foot Guru Code Bible.
 
 * Table of Contents
+
+* Contributing...
+
+To contribute:
+
+ - create a new branch based on the current gh-pages branch
+ - If adding new documents, create a link to them in index.org
+ - Add your updates/changes/new info and push the branch to GitHub.
+ - Issue a Pull Request for the gh-pages branch.
+ - Bug Bryan incessantly until he gets around to addressing your pull request.
+ - Party down!
