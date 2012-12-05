@@ -1,3 +1,35 @@
 #+TITLE: Daily Git
 #+OPTIONS: toc:nil num:nil ^:nil
 
+* Starting Work
+
+** Syncing up with the world
+
+** Pull vs. Fetch and Rebase
+
+* Throughout the Day
+
+** There's a Branch for that
+Feature/Topic branches.
+
+** Some days I think we should all be committed.
+When to commit, how to issue detailed commit messages.
+** Can you take a look at this?
+*** When to push to GitHub.
+*** Stashing and Poppin' that Stash
+** It works, now what?
+Issuing pull requests.
+
+* It's time to GTFO
+Cleaning up for the day.
+
+* Not quite Daily Git.
+** Tagging
+** Dealing with remote repositories
+*** Pushing tags & branches
+*** Deleting tags & branches
+*** Why can't I pull?
+** Setting up a new Repository
+*** On Github
+*** .gitignore
+*** Standard git configs to make life easier.
