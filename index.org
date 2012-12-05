@@ -1,0 +1,6 @@
+#+TITLE: Twelve Foot Guru Code Bible
+#+OPTIONS: toc:nil num:nil ^:nil
+
+Welcome to the Twelve Foot Guru Code Bible.
+
+* Table of Contents
