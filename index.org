@@ -4,6 +4,8 @@
 Welcome to the Twelve Foot Guru Code Bible.
 
 * Table of Contents
+** [[DailyGit.org][Daily Git]]
+How we use the Git Version Control System in our day to day tasks.
 
 * Contributing...
 
