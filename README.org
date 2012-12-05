@@ -1,0 +1,4 @@
+#+TITLE: Twelve Foot Guru Code Bible
+#+OPTIONS: toc:nil num:nil ^:nil
+
+Welcome to the Twelve Foot Guru Code Bible. You are currently viewing the master branch's README file. There's nothing useful here, so why not visit the [[http://12ftguru.github.com/CodeBible/][GitHub Pages version]] of the site?
